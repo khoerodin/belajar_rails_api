@@ -7,4 +7,3 @@ class OrderTest < ActiveSupport::TestCase
     assert_not order.valid?
   end
 end
-  
